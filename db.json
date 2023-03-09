@@ -1,0 +1,54 @@
+{
+    "livros": [
+        {
+            "numeros": 123,
+            "preço": 1,
+            "id": 1
+        },
+        {
+            "numeros": 222,
+            "preço": 2,
+            "id": 2
+        },
+        {
+            "numeros": 333,
+            "preço": 3,
+            "id": 3
+        }
+    ],
+    "funcionarios": [
+        {
+            "nome": "Mrina",
+            "area": "vendedora",
+            "id": 1
+        },
+        {
+            "nome": "Karol",
+            "area": "Gerente",
+            "id": 2
+        },
+        {
+            "nome": "Raquel",
+            "area": "Presidente",
+            "id": 3
+        }
+    ],
+
+    "clientes": [
+    {
+        "nome": "fábio",
+        "cpf": "12345678901",
+        "id": 1
+    },
+    {
+        "nome": "Maria",
+        "cpf": "23445678901",
+        "id": 2
+    },
+    {
+        "nome": "Luana",
+        "cpf": "43215678901",
+        "id": 3
+    }
+    ]
+}
